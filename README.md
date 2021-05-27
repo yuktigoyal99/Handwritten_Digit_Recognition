@@ -1,9 +1,18 @@
-# Handwritten_Character_Recognition
-In this machine learning project, it will recognize handwritten characters, i.e, English alphabets from A-Z. 
+# Handwritten_Digit_Recognition
+In this machine learning project, it will recognize handwritten digits. 
 
 Required frameworks are :
-Numpy cv2 (openCV) Keras Tensorflow Matplotlib Pandas 
+Install the necessary libraries for this project using this command:
+pip install numpy, tensorflow, keras, pillow,
 
 Dataset Used:
-The dataset for this project contains 372450 images of alphabets of 28×2, all present in the form of a CSV file
+The MNIST dataset contains 60,000 training images of handwritten digits from zero to nine and 10,000 images for testing. So, the MNIST dataset has 10 different classes. The handwritten digits images are represented as a 28×28 matrix where each cell contains grayscale pixel value.
+
+
+Screenshots:
+
+
+![output1](https://user-images.githubusercontent.com/59720758/119903147-e33d9c80-bf65-11eb-8321-44def796ffbc.jpg)
+
+
 
